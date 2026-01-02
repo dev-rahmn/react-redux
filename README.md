@@ -65,5 +65,5 @@ src/
 Clone the repository:
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/dev-rahmn/react-redux.git
+cd react-redux
